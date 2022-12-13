@@ -1,0 +1,195 @@
+
+minigame.png
+size: 1024, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+exit
+  rotate: false
+  xy: 142, 72
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ingredients/biscuit
+  rotate: false
+  xy: 842, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/cherry
+  rotate: false
+  xy: 518, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/chicken
+  rotate: false
+  xy: 230, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/crackers
+  rotate: false
+  xy: 914, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/cream
+  rotate: false
+  xy: 770, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/curd
+  rotate: false
+  xy: 626, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/egg
+  rotate: false
+  xy: 302, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/flour
+  rotate: false
+  xy: 446, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/ice-cream
+  rotate: false
+  xy: 410, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/juice
+  rotate: false
+  xy: 878, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/lemon
+  rotate: false
+  xy: 338, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/lobster-mini
+  rotate: false
+  xy: 99, 28
+  size: 41, 94
+  orig: 41, 94
+  offset: 0, 0
+  index: -1
+ingredients/mussel
+  rotate: false
+  xy: 374, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/octopus
+  rotate: false
+  xy: 806, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/onion
+  rotate: false
+  xy: 482, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/puff-pastry
+  rotate: false
+  xy: 698, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/shrimp
+  rotate: false
+  xy: 554, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/spices
+  rotate: false
+  xy: 734, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/sugar
+  rotate: false
+  xy: 950, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/tomato
+  rotate: false
+  xy: 194, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/topping
+  rotate: false
+  xy: 266, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/whipping-cream
+  rotate: false
+  xy: 662, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ingredients/wine
+  rotate: false
+  xy: 590, 75
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+normal-food
+  rotate: false
+  xy: 142, 60
+  size: 38, 10
+  orig: 38, 10
+  offset: 0, 0
+  index: -1
+recycle-bin
+  rotate: false
+  xy: 2, 24
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+shit-food
+  rotate: false
+  xy: 2, 2
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1

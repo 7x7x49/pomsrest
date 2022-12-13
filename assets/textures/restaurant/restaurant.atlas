@@ -1,0 +1,146 @@
+
+restaurant.png
+size: 1024, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+bars/left
+  rotate: false
+  xy: 173, 28
+  size: 246, 27
+  orig: 246, 27
+  offset: 0, 0
+  index: -1
+bars/right
+  rotate: false
+  xy: 375, 59
+  size: 194, 27
+  orig: 194, 27
+  offset: 0, 0
+  index: -1
+cells/dark
+  rotate: false
+  xy: 248, 2
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+cells/light
+  rotate: false
+  xy: 297, 2
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+chair
+  rotate: false
+  xy: 173, 57
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+chair-flowers/1
+  rotate: false
+  xy: 398, 9
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+chair-flowers/2
+  rotate: false
+  xy: 383, 9
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+chair-flowers/3
+  rotate: false
+  xy: 368, 9
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 421, 3
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+cupboard
+  rotate: false
+  xy: 663, 16
+  size: 103, 108
+  orig: 103, 108
+  offset: 0, 0
+  index: -1
+flowerpots
+  rotate: false
+  xy: 571, 61
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+fridge
+  rotate: false
+  xy: 962, 35
+  size: 41, 89
+  orig: 41, 89
+  offset: 0, 0
+  index: -1
+kitchen-wall
+  rotate: false
+  xy: 768, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lamps/left
+  rotate: false
+  xy: 499, 3
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+lamps/right
+  rotate: false
+  xy: 551, 3
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+sink
+  rotate: false
+  xy: 870, 22
+  size: 90, 102
+  orig: 90, 102
+  offset: 0, 0
+  index: -1
+stair
+  rotate: false
+  xy: 173, 9
+  size: 73, 17
+  orig: 73, 17
+  offset: 0, 0
+  index: -1
+stove
+  rotate: false
+  xy: 2, 15
+  size: 169, 109
+  orig: 169, 109
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 375, 88
+  size: 182, 36
+  orig: 182, 36
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 346, 6
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

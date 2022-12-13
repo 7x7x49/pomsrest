@@ -1,0 +1,62 @@
+
+mini-recipes.png
+size: 512, 32
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+buyabes
+  rotate: false
+  xy: 2, 2
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+caesar
+  rotate: false
+  xy: 46, 2
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+lobster
+  rotate: false
+  xy: 222, 2
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+macaroon
+  rotate: false
+  xy: 178, 2
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+mulled-wine
+  rotate: false
+  xy: 266, 2
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+strudel
+  rotate: false
+  xy: 134, 2
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+takoyaki
+  rotate: false
+  xy: 90, 2
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+triful
+  rotate: false
+  xy: 310, 2
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1

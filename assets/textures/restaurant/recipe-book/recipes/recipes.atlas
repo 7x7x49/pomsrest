@@ -1,0 +1,62 @@
+
+recipes.png
+size: 2048, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+buyabes
+  rotate: false
+  xy: 2, 2
+  size: 236, 186
+  orig: 236, 186
+  offset: 0, 0
+  index: -1
+caesar
+  rotate: false
+  xy: 240, 2
+  size: 236, 186
+  orig: 236, 186
+  offset: 0, 0
+  index: -1
+lobster
+  rotate: false
+  xy: 954, 2
+  size: 236, 186
+  orig: 236, 186
+  offset: 0, 0
+  index: -1
+macaroon
+  rotate: false
+  xy: 716, 2
+  size: 236, 186
+  orig: 236, 186
+  offset: 0, 0
+  index: -1
+mulled-wine
+  rotate: false
+  xy: 1192, 2
+  size: 236, 186
+  orig: 236, 186
+  offset: 0, 0
+  index: -1
+shtrudel
+  rotate: false
+  xy: 1430, 2
+  size: 236, 186
+  orig: 236, 186
+  offset: 0, 0
+  index: -1
+takoyaki
+  rotate: false
+  xy: 478, 2
+  size: 236, 186
+  orig: 236, 186
+  offset: 0, 0
+  index: -1
+triful
+  rotate: false
+  xy: 1668, 2
+  size: 236, 186
+  orig: 236, 186
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+player-llama.png
+size: 1024, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+back-running/0
+  rotate: false
+  xy: 290, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+back-running/1
+  rotate: false
+  xy: 2, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+back-running/2
+  rotate: false
+  xy: 506, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+forward-running/0
+  rotate: false
+  xy: 146, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+forward-running/2
+  rotate: false
+  xy: 146, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+forward-running/1
+  rotate: false
+  xy: 650, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+left-running/0
+  rotate: false
+  xy: 434, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+left-running/1
+  rotate: false
+  xy: 74, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+left-running/2
+  rotate: false
+  xy: 578, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+right-running/0
+  rotate: false
+  xy: 218, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+right-running/1
+  rotate: false
+  xy: 722, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+right-running/2
+  rotate: false
+  xy: 362, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
